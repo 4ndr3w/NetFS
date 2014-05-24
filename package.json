@@ -1,0 +1,16 @@
+{
+  "name": "netfs",
+  "description": "HTTP P2P filesystem",
+  "version": "0.0.2",
+  "main": "netfs.js",
+  "dependencies": {
+    "express": "~4.3.1",
+    "underscore": "~1.6.0",
+    "deepmerge": "~0.2.7",
+    "fuse4js": "~0.1.9",
+    "request": "~2.36.0"
+  },
+  "scripts": {
+    "start": "node netfs;umount mnt"
+  }
+}

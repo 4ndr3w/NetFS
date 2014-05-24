@@ -1,0 +1,7 @@
+{
+  "tracker": "10.0.0.5:8080",
+  "port": "8080",
+
+  "mountpoint": "mnt",
+  "source": "source"
+}
